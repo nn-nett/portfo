@@ -1,0 +1,1 @@
+console.log('oware wa mou shindeiru')
